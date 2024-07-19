@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
-- <b>Daily Task Scheduler Using AWS PartRock</b>
   - [Daily Task Scheduler Using AWS PartRock](https://github.com/MattFallsTech/Amazon-PartyRock)
 
 <h2>📜 Certifications</h2>
