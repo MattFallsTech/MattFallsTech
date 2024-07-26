@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
   - [Daily Task Scheduler Using AWS PartRock](https://github.com/MattFallsTech/Amazon-PartyRock)
+  - [Image Labels Generator Using Amazon Rekognition](https://github.com/MattFallsTech/Amazon-Rekognition)
 
 <h2>📜 Certifications</h2>
 
