@@ -4,6 +4,7 @@
 
   - [Daily Task Scheduler Using AWS PartRock](https://github.com/MattFallsTech/Amazon-PartyRock)
   - [Image Labels Generator Using Amazon Rekognition](https://github.com/MattFallsTech/Amazon-Rekognition)
+  - [Text Narrator Using Amazon Polly](https://github.com/MattFallsTech/Amazon-Polly)
 
 <h2>📜 Certifications</h2>
 
