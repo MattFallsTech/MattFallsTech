@@ -9,6 +9,7 @@
 
 <h2>📜 Certifications</h2>
 
+I have recently completed a Bachelor of Applied Cloud Technology at La Trobe University. I am seeking an entry level position within the cloud computinig industry. My previous qualifications also include a trade certificate in Automotive Refinishing at TAFE NSW.  <br/>
 
 
 <!--
